@@ -1,0 +1,26 @@
+borough,distance_band,ridership_event,ridership_non_event,percent_increase
+Queens,2–5 mi,43.0131123959169,34.843004307331796,23.448345660784245
+Brooklyn,2–5 mi,50.00801458510082,40.84852307565945,22.423066538969348
+Manhattan,1–2 mi,101.76460504353318,85.07845937776621,19.612656115077243
+Manhattan,0.5–1 mi,167.48935448874423,141.32903248503717,18.51022507104243
+Manhattan,0–0.25 mi,187.38291963200834,158.43162812574909,18.27368174445589
+Manhattan,2–5 mi,71.05465823970037,60.503477033476706,17.438966690105552
+Manhattan,0.25–0.5 mi,130.41001932100468,114.90238519224499,13.496355278276967
+Bronx,0–0.25 mi,,,
+Bronx,0.25–0.5 mi,,,
+Bronx,0.5–1 mi,,,
+Bronx,1–2 mi,,,
+Bronx,2–5 mi,,,
+Brooklyn,0–0.25 mi,,,
+Brooklyn,0.25–0.5 mi,,,
+Brooklyn,0.5–1 mi,,,
+Brooklyn,1–2 mi,,,
+Queens,0–0.25 mi,,,
+Queens,0.25–0.5 mi,,,
+Queens,0.5–1 mi,,,
+Queens,1–2 mi,,,
+Staten Island,0–0.25 mi,,,
+Staten Island,0.25–0.5 mi,,,
+Staten Island,0.5–1 mi,,,
+Staten Island,1–2 mi,,,
+Staten Island,2–5 mi,,,
